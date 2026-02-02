@@ -2,33 +2,33 @@
 
 
 @font-face {
-  font-family: Bricolage-Bold;
+  font-family: "Bricolage-Bold";
   src: url("/weather-app/src/assets/fonts/BricolageGrotesque-Bold.ttf");
 }
 
 @font-face {
-  font-family: DM-Sans-Light;
+  font-family: "DM-Sans-Light";
   src: url(/weather-app/src/assets/fonts/DMSans-Light.ttf);
 }
 
 @font-face {
-  font-family: DM-Sans-Medium;
+  font-family: "DM-Sans-Medium";
   src: url(/weather-app/src/assets/fonts/DMSans-Medium.ttf);
 }
 
 @font-face {
-  font-family: DM-Sans-Bold;
+  font-family: "DM-Sans-Bold";
   src: url(/weather-app/src/assets/fonts/DMSans-Bold.ttf);
 }
 
 @font-face {
-  font-family: DM-Sans-SemiBold;
+  font-family: "DM-Sans-SemiBold";
   src: url(/weather-app/src/assets/fonts/DMSans-SemiBold.ttf);
 }
 
 
 @font-face {
-  font-family: DM-Sans-SemiBoldItalic;
+  font-family: "DM-Sans-SemiBoldItalic";
   src: url(/weather-app/src/assets/fonts/DMSans-SemiBoldItalic.ttf);
 }
 
@@ -43,6 +43,6 @@
   --font-dmsemiboldItallic: "DM-Sans-SemiBoldItalic";
 
   --color-blue: hsl(233, 67%, 56%);
-  --color-deepblue; hsl(248, 70%, 36%);
+  --color-deepblue: hsl(248, 70%, 36%);
 
 }

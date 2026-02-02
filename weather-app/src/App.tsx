@@ -5,7 +5,7 @@ function App() {
 
   return (
 <>
-<body className="bg-blue">
+<body className="bg-slate-800">
   
 </body>
 </>
